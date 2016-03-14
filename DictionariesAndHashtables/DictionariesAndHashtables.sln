@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\Hash
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable.Tests", "HashTable.Tests\HashTable.Tests.csproj", "{D852AD35-E7FC-499B-A913-11479BB76674}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSymbols", "CountSymbols\CountSymbols.csproj", "{7963A4C1-3D2A-4935-8F53-79FF40C302D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{EE14D7F8-CEB6-4927-95CA-2AFE66CAB755}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D852AD35-E7FC-499B-A913-11479BB76674}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D852AD35-E7FC-499B-A913-11479BB76674}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D852AD35-E7FC-499B-A913-11479BB76674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7963A4C1-3D2A-4935-8F53-79FF40C302D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7963A4C1-3D2A-4935-8F53-79FF40C302D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7963A4C1-3D2A-4935-8F53-79FF40C302D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7963A4C1-3D2A-4935-8F53-79FF40C302D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE14D7F8-CEB6-4927-95CA-2AFE66CAB755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE14D7F8-CEB6-4927-95CA-2AFE66CAB755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE14D7F8-CEB6-4927-95CA-2AFE66CAB755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE14D7F8-CEB6-4927-95CA-2AFE66CAB755}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
