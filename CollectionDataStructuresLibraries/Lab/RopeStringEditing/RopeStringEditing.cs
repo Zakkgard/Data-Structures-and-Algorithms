@@ -45,7 +45,10 @@
             catch
             {
                 builder.AppendLine("ERROR");
+                return;
             }
+
+            builder.AppendLine("OK");
         }
 
         private static void Append(BigList<char> rope, StringBuilder builder, string value)
