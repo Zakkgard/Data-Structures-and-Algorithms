@@ -16,7 +16,7 @@ namespace ProductsPriceRange
 
         public int CompareTo(Product other)
         {
-            if (this.Name == other.Name)
+            if (this.Price == other.Price)
             {
                 return this.Name.CompareTo(other.Name);
             }
