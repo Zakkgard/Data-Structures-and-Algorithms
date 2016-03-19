@@ -1,0 +1,8 @@
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth.Tests\bin\Debug\BFS-Escape-from-Labyrinth.Tests.dll
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth.Tests\bin\Debug\BFS-Escape-from-Labyrinth.Tests.pdb
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth.Tests\bin\Debug\Escape-from-Labyrinth.exe
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth.Tests\bin\Debug\Escape-from-Labyrinth.pdb
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth.Tests\obj\Debug\BFS-Escape-from-Labyrinth.Tests.csprojResolveAssemblyReference.cache
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth.Tests\obj\Debug\BFS-Escape-from-Labyrinth.Tests.dll
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth.Tests\obj\Debug\BFS-Escape-from-Labyrinth.Tests.pdb

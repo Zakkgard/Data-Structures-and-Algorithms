@@ -1,0 +1,5 @@
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth\bin\Debug\Escape-from-Labyrinth.exe
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth\bin\Debug\Escape-from-Labyrinth.pdb
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth\obj\Debug\BFS-Escape-from-Labyrinth.csprojResolveAssemblyReference.cache
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth\obj\Debug\Escape-from-Labyrinth.exe
+D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth\obj\Debug\Escape-from-Labyrinth.pdb
