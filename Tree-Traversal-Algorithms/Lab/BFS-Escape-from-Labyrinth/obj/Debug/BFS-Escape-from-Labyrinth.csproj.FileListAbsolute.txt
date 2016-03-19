@@ -2,3 +2,5 @@ D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth\bin\Debu
 D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth\bin\Debug\Escape-from-Labyrinth.pdb
 D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth\obj\Debug\Escape-from-Labyrinth.exe
 D:\GitHub\trunk\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth\obj\Debug\Escape-from-Labyrinth.pdb
+C:\Users\Stayko\Source\Repos\Data-Structures-and-Algorithms\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth\obj\Debug\Escape-from-Labyrinth.exe
+C:\Users\Stayko\Source\Repos\Data-Structures-and-Algorithms\Tree-Traversal-Algorithms\Lab\BFS-Escape-from-Labyrinth\obj\Debug\Escape-from-Labyrinth.pdb
