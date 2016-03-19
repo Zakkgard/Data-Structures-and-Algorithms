@@ -1,6 +1,0 @@
-D:\GitHub\trunk\Tree-Traversal-Algorithms\Homework\Tree-Traversal-Algorithms-Homework\bin\Debug\Tree-Traversal-Algorithms-Homework.exe.config
-D:\GitHub\trunk\Tree-Traversal-Algorithms\Homework\Tree-Traversal-Algorithms-Homework\bin\Debug\Tree-Traversal-Algorithms-Homework.exe
-D:\GitHub\trunk\Tree-Traversal-Algorithms\Homework\Tree-Traversal-Algorithms-Homework\bin\Debug\Tree-Traversal-Algorithms-Homework.pdb
-D:\GitHub\trunk\Tree-Traversal-Algorithms\Homework\Tree-Traversal-Algorithms-Homework\obj\Debug\Tree-Traversal-Algorithms-Homework.csprojResolveAssemblyReference.cache
-D:\GitHub\trunk\Tree-Traversal-Algorithms\Homework\Tree-Traversal-Algorithms-Homework\obj\Debug\Tree-Traversal-Algorithms-Homework.exe
-D:\GitHub\trunk\Tree-Traversal-Algorithms\Homework\Tree-Traversal-Algorithms-Homework\obj\Debug\Tree-Traversal-Algorithms-Homework.pdb
