@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{6118625C-8CC0-4A87-A46D-9DE9F1D5376F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework", "Homework", "{89168A39-1EB8-482D-A86B-D658066D26FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvlTree", "Lab\AvlTree\AvlTree.csproj", "{0BF54B07-DA0B-40EF-851B-3F7CBA4ACDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvlTree.Tests", "Lab\AvlTree.Tests\AvlTree.Tests.csproj", "{0EDE185D-7CDA-4F04-85ED-867B51AD21A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF54B07-DA0B-40EF-851B-3F7CBA4ACDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF54B07-DA0B-40EF-851B-3F7CBA4ACDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF54B07-DA0B-40EF-851B-3F7CBA4ACDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF54B07-DA0B-40EF-851B-3F7CBA4ACDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDE185D-7CDA-4F04-85ED-867B51AD21A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDE185D-7CDA-4F04-85ED-867B51AD21A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDE185D-7CDA-4F04-85ED-867B51AD21A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDE185D-7CDA-4F04-85ED-867B51AD21A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0BF54B07-DA0B-40EF-851B-3F7CBA4ACDCC} = {6118625C-8CC0-4A87-A46D-9DE9F1D5376F}
+		{0EDE185D-7CDA-4F04-85ED-867B51AD21A7} = {6118625C-8CC0-4A87-A46D-9DE9F1D5376F}
+	EndGlobalSection
+EndGlobal
