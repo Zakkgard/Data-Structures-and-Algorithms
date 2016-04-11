@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HanoiTowers", "Homework\Han
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithoutRepetition", "Homework\CombinationsWithoutRepetition\CombinationsWithoutRepetition.csproj", "{B9A30E18-A418-4814-864A-7842486E0711}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathsInMatrix", "Homework\PathsInMatrix\PathsInMatrix.csproj", "{777EC084-E3AF-40B3-92A1-6D1D6A0A4ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectedAreas", "Homework\ConnectedAreas\ConnectedAreas.csproj", "{C41EC8BE-E89D-4F9E-98DB-E59A766625A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,14 @@ Global
 		{B9A30E18-A418-4814-864A-7842486E0711}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9A30E18-A418-4814-864A-7842486E0711}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9A30E18-A418-4814-864A-7842486E0711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777EC084-E3AF-40B3-92A1-6D1D6A0A4ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777EC084-E3AF-40B3-92A1-6D1D6A0A4ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777EC084-E3AF-40B3-92A1-6D1D6A0A4ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777EC084-E3AF-40B3-92A1-6D1D6A0A4ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41EC8BE-E89D-4F9E-98DB-E59A766625A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41EC8BE-E89D-4F9E-98DB-E59A766625A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41EC8BE-E89D-4F9E-98DB-E59A766625A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41EC8BE-E89D-4F9E-98DB-E59A766625A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,5 +65,7 @@ Global
 		{13FA0499-1972-4DDF-A735-34100063AE2D} = {45926C1E-3C8E-47F6-80AE-8B305A395D45}
 		{F16C5252-BF15-4ADF-9279-8419CF9006B1} = {45926C1E-3C8E-47F6-80AE-8B305A395D45}
 		{B9A30E18-A418-4814-864A-7842486E0711} = {45926C1E-3C8E-47F6-80AE-8B305A395D45}
+		{777EC084-E3AF-40B3-92A1-6D1D6A0A4ADE} = {45926C1E-3C8E-47F6-80AE-8B305A395D45}
+		{C41EC8BE-E89D-4F9E-98DB-E59A766625A5} = {45926C1E-3C8E-47F6-80AE-8B305A395D45}
 	EndGlobalSection
 EndGlobal
