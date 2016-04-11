@@ -1,15 +1,11 @@
 ﻿namespace NestedLoopsToRecursion
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     public class NestedLoopsToRecursion
     {
-        static int n;
-        static int[] array;
+        private static int n;
+        private static int[] array;
 
         public static void Main()
         {
